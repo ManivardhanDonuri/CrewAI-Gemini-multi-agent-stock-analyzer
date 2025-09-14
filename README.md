@@ -97,6 +97,6 @@ This bypasses internal validation and disables telemetry via AgentOps.
 Contributions to this project are welcome! If you have any ideas for improvements, bug fixes, or new features, feel free to submit a pull request.
 
 ## Contact
-For any questions or issues, please contact **[manivardhanr01@gmail.com]** or feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/manivardhan-reddy-110550311/)**.
+For any questions or issues, please contact **[manivardhanreddydonuri@gmail.com]** or feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/manivardhan-reddy-110550311/)**.
 
 
